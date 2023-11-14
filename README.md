@@ -4,6 +4,8 @@ A simple desktop application for speech-to-text conversion using OpenAI's Whispe
 ## Description
 Whisper Speech Transcription Tool is a standalone desktop application designed for real-time speech-to-text conversion using OpenAI's Whisper model. While it performs optimally on systems with robust hardware, it's built to be self-contained, requiring no external APIs. Suitable for various OS platforms, with specific setup instructions provided for each.
 
+![Screenshot](./screenshot.png)
+
 ## Computational Requirements
 - A robust CPU or CUDA-compatible GPU for optimal performance.
 - Python 3.x installed on the system.
