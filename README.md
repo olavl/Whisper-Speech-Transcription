@@ -24,7 +24,7 @@ Ensure Python is installed on your system. Download from [Python's official webs
    ```
 3. Activate the virtual environment (Windows):
    ```bash
-   .\stt_env\Scriptsctivate
+   .\stt_env\Scripts\activate
    ```
 
 ### Custom PyTorch Installation
