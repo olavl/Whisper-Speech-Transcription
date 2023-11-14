@@ -4,8 +4,7 @@ A simple desktop application for speech-to-text conversion using OpenAI's Whispe
 ## Description
 Whisper Speech Transcription Tool is a standalone desktop application designed for real-time speech-to-text conversion using OpenAI's Whisper model. While it performs optimally on systems with robust hardware, it's built to be self-contained, requiring no external APIs. Suitable for various OS platforms, with specific setup instructions provided for each.
 
-<img src="https://github.com/olavl/Whisper-Speech-Transcription/screenshot.png" width="100" height="100">
-
+<img src="https://github.com/olavl/Whisper-Speech-Transcription/blob/main/screenshot.png" width="100" height="100">
 
 
 ## Computational Requirements
