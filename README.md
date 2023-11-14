@@ -11,7 +11,7 @@ Whisper Speech Transcription Tool is a standalone desktop application designed f
 ## Setup and Installation
 
 ### Python Interpreter
-Ensure Python is installed on your system. Download from [Python's official website](https://www.python.org/downloads/).
+Ensure Python 3.8-3.11 is installed on your system. Download from [Python's official website](https://www.python.org/downloads/).
 
 ### Setting up the Virtual Environment
 1. Install virtualenv:
@@ -34,11 +34,12 @@ For example: pip3 install torch torchvision torchaudio --index-url https://downl
 ### Additional Dependencies
 Install other required packages:
 ```bash
-pip install transformers pyaudio wave numpy soundfile
+pip install accelerate huggingface-hub numpy PyAudio soundfile tokenizers transformers
+
 ```
 
 ## Usage
-Run the provided batch file (or its equivalent in macOS/Linux) to set up the environment and launch the application.
+Run the provided batch file (or create equivalent in macOS/Linux) to activatet the virtual environment and launch the application.
 
 ## FAQs
 - **Requirement for a robust computer?**
@@ -48,3 +49,8 @@ Run the provided batch file (or its equivalent in macOS/Linux) to set up the env
 
 ## License
 This project is distributed under the MIT License.
+
+## Acknowledgments
+
+Built with help of Grimoire, Coding Wizard GPT by Nick Dobos @NickADobos https://mindgoblinstudios.com/
+
